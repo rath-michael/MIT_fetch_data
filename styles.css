@@ -1,0 +1,19 @@
+body {
+    background: darkgrey;
+}
+.displayItem {
+    margin: auto;
+    width: 45%;
+    background: lightgray;
+    border: 1px solid black;
+}
+.itemContainer {
+    margin-top: 10px;
+    justify-content: center
+}
+p {
+    margin: 0;
+}
+.linkText {
+    font-size: small;
+}
